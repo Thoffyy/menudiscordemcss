@@ -1,0 +1,49 @@
+ @import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
+
+
+/*                 COMENTARIOS:
+
+
+
+
+font-family: 'Whitney', sans-serif;
+
+
+*/
+
+
+
+
+body {
+    background-color: #36393F ;
+}
+
+.categoria {
+    margin-bottom: 01%;
+    color: #B9BBBE;
+    font-family: 'Montserrat', sans-serif;
+    
+}
+
+.texto {
+    margin-bottom: 01%;
+    color: #FFFFFF;
+    font-family: 'Montserrat', sans-serif;
+    border-style: solid;
+    border-radius: 3%;
+    border-color: #828385;
+
+}
+
+.anuncio {
+    margin-bottom: 01%;
+    color: #B9BBBE;
+    font-family: 'Montserrat', sans-serif;
+}
+.voz {
+    margin-bottom: 01%;
+    color: #B9BBBE;
+    font-family: 'Montserrat', sans-serif;
+}
+
+
