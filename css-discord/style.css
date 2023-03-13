@@ -5,9 +5,8 @@
 
 
 
-
-font-family: 'Whitney', sans-serif;
-
+13/03/2023
+16:47
 
 */
 
@@ -30,11 +29,13 @@ body {
     color: #FFFFFF;
     font-family: 'Montserrat', sans-serif;
     border-style: solid;
-    border-radius: 3%;
+    border-top-left-radius: 5px;
+    border-bottom-left-radius: 5px;
+    background-color: #828385;
+    border-width: 1px;
     border-color: #828385;
-
-}
-
+    position: relative; 
+  }
 .anuncio {
     margin-bottom: 01%;
     color: #B9BBBE;
@@ -46,4 +47,9 @@ body {
     font-family: 'Montserrat', sans-serif;
 }
 
+.img {
+    position: absolute; 
+    top: 50px;
+    z-index: 1; 
+  }
 
